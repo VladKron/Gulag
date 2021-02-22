@@ -1,0 +1,6 @@
+gulag:
+    world: "world"
+    x: "1000000"
+    y: "100"
+    z: "1000000"
+prisoners:

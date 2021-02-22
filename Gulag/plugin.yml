@@ -1,0 +1,19 @@
+# https://bukkit.gamepedia.com/Plugin_YAML/ru
+
+name: GULAG
+main: ua.vladkron.gulag.Main
+version: 1.0.0
+api-version: 1.16
+authors: [VladKron]
+description: A plugin for teleporting prisoners to GULAG
+website: https://www.youtube.com/channel/UCmOBiHKhhLSOz1U01N6QplQ
+commands:
+   gulag:
+      description: teleporting prisoners to GULAG
+      usage: /<command>
+
+permissions:
+   gulag.set:
+      description: Use commang /gulag
+      default: op  
+     
